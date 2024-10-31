@@ -2,18 +2,12 @@
 
 ### Stats
 
-<div style="display:flex; gap: 20px;align-items: center;">
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvagurme&layout=compact&theme=gotham" alt="Most Used Languages"/>
-</div>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=apurvagurme&show_icons=true&line_height=27&theme=gotham" alt="GitHub Stats" />
-</div>
-
-</div>
-
+<p align="center">
+  <a href="https://github.com/apurvagurme">
+      <img height="200rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=apurvagurme&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
+      <img height="200rem" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvagurme&layout=compact&langs_count=8&theme=github_dark&count_private=true" />
+  </a>
+</p>
 <!--
 **apurvagurme/apurvagurme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
